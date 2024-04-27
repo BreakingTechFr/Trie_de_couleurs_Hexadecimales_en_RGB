@@ -13,3 +13,10 @@ python3 /..chemin_du_fichier/charte.py
 - Une nouvelle fenêtre apparaitra pour vous afficher l'ordre des couleurs triées en 3 colonnes Rouge, Vert et Bleu. 
 Chaque colonne triera ses couleurs de la couleur la plus claire à la plus foncée.
 - Appuyez sur le bouton extraire, pour extraire dans un fichier .txt le résultat du trie précédent.
+
+## Suivez-nous
+
+- [@breakingtechfr](https://twitter.com/BreakingTechFR) sur Twitter.
+- [Facebook](https://www.facebook.com/BreakingTechFr/) likez notre page.
+- [Instagram](https://www.instagram.com/breakingtechfr/) taguez nous sur vos publications !
+- [Discord](https://discord.gg/VYNVBhk) pour parler avec nous !
